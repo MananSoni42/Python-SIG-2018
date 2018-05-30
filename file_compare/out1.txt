@@ -1,0 +1,2 @@
+- to test if files are compared properly
++ New line added
